@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+iOS-HealthKit, Android-GoogleFitとの連携
+歩数等の活動データの取得
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
